@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+
+# tuitter-api
+Proyecto desarrollado con TypeScript  y nestJs que se enfoca a una aplicación con un parecido a Twitter hoy en día llamada X
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -73,6 +76,3 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 =======
-# tuitter-api
-Proyecto desarrollado con TypeScript  y nestJs que se enfoca a una aplicación con un parecido a Twitter hoy en día llamada X
->>>>>>> 74de7c92565bca47990866ca845a8d853ded1beb
